@@ -1,1 +1,1 @@
-This is a simple project about sorting algorithms. I ended up choosing to use a bubble sort for this.
+For this activity, I created various arrays. I had some trouble rememebering how to initiate arrays in Java and how it differs from the other languages I've learned.
